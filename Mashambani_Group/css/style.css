@@ -1858,8 +1858,8 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
   margin: 0;
 }
 .shuffle-btn-group label.active {
-  color: #212121;
-  background: #ffb600;
+  color: #14321d;
+  background: #56152d;
 }
 .shuffle-btn-group label input {
   display: none;
@@ -2337,7 +2337,7 @@ img.testimonial-thumb {
 ================================================== */
 /*- Footer common */
 .footer {
-  background-color: #0d0d0d;
+  background-color: #555;
   color: #999;
 }
 
